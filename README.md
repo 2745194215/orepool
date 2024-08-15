@@ -8,7 +8,7 @@
 ### 使用
 
 ```cmd
-git clone gh repo clone 2745194215/orepool
+git clone https://github.com/2745194215/orepool.git
 
 cd orepool
 
